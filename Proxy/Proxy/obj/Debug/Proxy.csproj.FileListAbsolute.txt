@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\jose.pech\source\repos\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\jose.pech\source\repos\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\jose.pech\source\repos\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\jose.pech\source\repos\Proxy\Proxy\obj\Debug\Proxy.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploProxy\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploProxy\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploProxy\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploProxy\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploProxy\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploProxy\Proxy\Proxy\obj\Debug\Proxy.pdb
